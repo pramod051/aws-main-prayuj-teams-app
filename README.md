@@ -1,5 +1,5 @@
 # Prayuj Teams - Professional Chat Application
-# Just add some line, Add one more line, adding more
+# Just add some line, Add one more line, adding more, add again
 A modern, professional chat application built with React, Node.js, Socket.IO, and MongoDB. Features real-time messaging, file sharing, group chats, and more.
 
 ## 🚀 Features
