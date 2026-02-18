@@ -185,6 +185,7 @@ const onlineUsers = new Map();
 // ─────────────────────────────────────────────────────
 io.on('connection', (socket) => {
   console.log(`✓ User connected: ${socket.id}`);
+  });
 
   //  FIXED: Added opening backtick (was syntax error)
   socket.on('join-room', (roomId) => {
